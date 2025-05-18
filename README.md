@@ -1,7 +1,7 @@
 # xPL/SQL - Automated unit and integration testing in PL/SQL (TDD)
 
 
-**Readme** - [Versão em Português](https://github.com/wesleydavidsantos/xPLSQL/blob/main/README_ptBR.md)
+**Readme** - [Documentação em português](https://github.com/wesleydavidsantos/xPLSQL/blob/main/README_ptBR.md)
 
 
 # xPL/SQL

@@ -12,6 +12,8 @@ xPL/SQL é um framework de testes automatizados desenvolvido 100% em PL/SQL, pro
 
 > **BEGIN os testes. END os bugs.**
 
+<img src="https://github.com/wesleydavidsantos/xPLSQL/blob/main/xPLSQL.png" alt="Testes unitários e de integração para PL/SQL — simples, nativo e profissional." width="600"/>
+
 ---
 
 # Observação

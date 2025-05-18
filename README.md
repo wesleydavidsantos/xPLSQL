@@ -1,6 +1,5 @@
 # xPL/SQL - Automated unit and integration testing in PL/SQL (TDD)
 
-
 **Readme** - [Documentação em português](https://github.com/wesleydavidsantos/xPLSQL/blob/main/README_ptBR.md)
 
 
@@ -11,6 +10,8 @@
 xPL/SQL is a fully PL/SQL-based automated testing framework designed to simplify the creation and execution of unit and integration tests in Oracle systems. Ideal for developers and DBAs looking to apply modern software quality practices directly within the database.
 
 > **BEGIN the tests. END the bugs.**
+
+<img src="https://github.com/wesleydavidsantos/xPLSQL/blob/main/xPLSQL.png" alt="Unit and integration testing for PL/SQL — simple, native, and professional." width="600"/>
 
 ---
 

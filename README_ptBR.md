@@ -14,6 +14,17 @@ xPL/SQL é um framework de testes automatizados desenvolvido 100% em PL/SQL, pro
 
 ---
 
+# Observação
+> ⚠️ **Este é o novo repositório oficial do xPL/SQL**  
+> As atualizações e melhorias do framework agora estão sendo feitas exclusivamente neste repositório.  
+> O repositório anterior (`ProTddOracle`) foi descontinuado e permanecerá apenas para referência histórica.
+
+🔗 Repositório anterior (arquivado): [wdsPLSQLtdd/ProTddOracle](https://github.com/wdsPLSQLtdd/ProTddOracle)
+
+--
+
+
+
 ## 🚀 Por que usar xPL/SQL?
 
 - ✅ **Totalmente em PL/SQL**: Sem dependências externas ou integrações complexas.
